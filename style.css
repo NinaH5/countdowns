@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://i.pinimg.com/1200x/93/48/eb/9348eb86e29140f21f649dc9e14633d4.jpg")
+}
+.container{
+    text-align: center;
+    padding: 100px;
+}
+h1{
+    font-size:90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: green;
+    text-shadow: 0 5px 6px rgb(11, 69, 3);
+}
+p{
+    font-size: 55px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+button{
+    font-size: 30px;
+}
+#start{
+    background-color: rgb(135, 202, 135);
+    border: none;
+}
+#start:hover{
+    cursor:pointer;
+    box-shadow: 0 5px 6px black;
+}
+#start{
+    background-color: rgb(135, 202, 135);
+    border: none;
+}
+#start:hover{
+    cursor:pointer;
+    box-shadow: 0 5px 6px black;
+}
+#stop{
+    background-color: rgb(202, 135, 135);
+    border: none;
+}
+#stop:hover{
+    cursor:pointer;
+    box-shadow: 0 5px 6px black;
+}
+#restart{
+    background-color: rgb(187, 135, 202);
+    border: none;
+}
+#restart:hover{
+    cursor:pointer;
+    box-shadow: 0 5px 6px black;
+}
